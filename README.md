@@ -4,5 +4,5 @@ The Idea grew when I got to http://www.artist-developer.com/?fbclid=IwAR36-iXT2E
 Recomended reading -> https://medium.com/@tallys/no-one-succeeds-in-tech-alone-7012d340ff27 
 
 Things I didnt'know I needed (start here if you are a code nw like me)
-Normalize takes out different default CSS behaviours from most used web browsers. *-> https://necolas.github.io/normalize.css/
+Normalize takes out different default CSS behaviours from most used web browsers. Light and straightforward *-> https://necolas.github.io/normalize.css/
 
