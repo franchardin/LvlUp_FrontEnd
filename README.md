@@ -6,3 +6,20 @@ Recomended reading -> https://medium.com/@tallys/no-one-succeeds-in-tech-alone-7
 Things I didnt'know I needed (start here if you are a code nw like me)
 Normalize takes out different default CSS behaviours from most used web browsers. Light and straightforward *-> https://necolas.github.io/normalize.css/
 
+---------TYPESCRIPT---------
+https://www.typescriptlang.org/
+
+------------SASS------------
+https://sass-lang.com/documentation
+
+https://sass-lang.com/documentation/modules#hsla
+http://hslpicker.com/
+https://www.w3.org/TR/css-color-3/#hsl-color
+
+A visual guide to SASS and Compass http://jackiebalzer.com/color
+
+----------COMPASS-----------
+http://compass-style.org/
+
+-----------DESIGN-----------
+http://tallys.github.io/color-theory/
