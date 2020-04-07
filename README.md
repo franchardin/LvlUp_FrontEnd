@@ -23,3 +23,7 @@ http://compass-style.org/
 
 -----------DESIGN-----------
 http://tallys.github.io/color-theory/
+
+-----------FRONT DEVELOPERS-----------
+
+https://jdsteinbach.com/
