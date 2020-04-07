@@ -27,3 +27,7 @@ http://tallys.github.io/color-theory/
 -----------FRONT DEVELOPERS-----------
 
 https://jdsteinbach.com/
+
+-----------LEARN---------------------
+https://argentinaprograma.com/curso-javascript (ES)
+https://www.youtube.com/playlist?list=PLs73pLtDNXD893LSF8fP-EfZbGWMECmnc (ES)
